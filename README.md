@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rishabh Jain</h1>
 <h3 align="center">A passionate game developer, full stack developer, machine learning enthusiast and upcoming android developer</h3>
 
+<img align="right" height="250" src="https://private-user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU4NzYxNDksIm5iZiI6MTczNTg3NTg0OSwicGF0aCI6Ii83NDAzODE5MC8yNDA4Nzc0ODAtNWY2NTk3YjQtZmY3Yy00NDE1LTkyNzItZDk1NzU5ZGY4NDJmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTAzVDAzNDQwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAxMjAwZTE0N2E0ZGJlYTkzZTI4Y2M2MGI3YWQ0ZmY0YzIzNjIwMWRkMWMzMjVkZGJiMzk3MWY0NGRmMTZlZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7LwBQKktmHcddo08U5nApRRJD5341iAOH9QLynQHHuk"  />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh1128&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh1128" /> </p>
 
 - 🔭 I’m currently a **master's student at NIT Trichy**
